@@ -32,7 +32,7 @@ A sleek, animated password generator built with React and Tailwind CSS. Create s
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/InamDevilliers/password-generator.git
+   git clone https://github.com/InamDevilliers/Password-Generator.git
    cd password-generator
 
 Alternatively, you can download the project ZIP file and extract it.
